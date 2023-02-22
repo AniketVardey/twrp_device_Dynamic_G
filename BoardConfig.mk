@@ -5,7 +5,7 @@
 #
 
 # Inherit from common mithorium-common
-include device/xiaomi/mithorium-common/BoardConfigCommon.mk
+#include device/xiaomi/mithorium-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/10or/G
 
