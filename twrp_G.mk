@@ -10,8 +10,8 @@ PRODUCT_RELEASE_NAME := G
 $(call inherit-product, device/10or/G/device.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := $(PRODUCT_RELEASE_NAME)
-PRODUCT_NAME := twrp_$(PRODUCT_RELEASE_NAME)
+PRODUCT_DEVICE := G
+PRODUCT_NAME := twrp_G
 BOARD_VENDOR := 10or
 PRODUCT_BRAND := 10or
 PRODUCT_MODEL := 10or G
